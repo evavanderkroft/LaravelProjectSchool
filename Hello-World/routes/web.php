@@ -19,4 +19,6 @@ Route::get('/', function () {
 
 Route::get('/overzicht', 'OverzichtController@show') ->name('overzicht');
 
+Route::get('/newsItem', 'NewsItem@show') ->name('newsItem');
+
 

@@ -86,8 +86,8 @@
         </div>
 
         <div class="links">
-            <a href="{{route('detail')}}">Detail</a>
-            <a href="{{route('add')}}">Add</a>
+            <a href="{{route('newsitem')}}">Newsitems</a>
+{{--            <a href="{{route('add')}}">Add</a>--}}
         </div>
     </div>
 </div>
