@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b8ac0be-821d-43e5-9f87-bc3528b27102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hello-World/app/Http/Controllers/NewsItem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello-World/app/Http/Controllers/NewsItemController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello-World/app/Http/Controllers/aboutController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello-World/resources/views/news-items/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello-World/resources/views/news-items/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello-World/resources/views/news-items/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello-World/app/NewsItem.php" beforeDir="false" afterPath="$PROJECT_DIR$/Hello-World/resources/views/newsItem.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello-World/resources/views/overzicht.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Hello-World/resources/views/overzicht.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello-World/app/Http/Controllers/NewsItem.php" beforeDir="false" afterPath="$PROJECT_DIR$/Hello-World/app/NewsItem.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello-World/app/Http/Controllers/OverzichtController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello-World/resources/views/newsItem.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Hello-World/resources/views/newsItem.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello-World/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Hello-World/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hello-World/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/Hello-World/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +28,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -134,8 +145,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Eva van der kroft\Documents\root\SchoolProject\LaravelProjectSchool\Hello-World\app\Http\Controllers" />
+      <recent name="C:\Users\Eva van der kroft\Documents\root\SchoolProject\LaravelProjectSchool\Hello-World\resources\views" />
+      <recent name="C:\Users\Eva van der kroft\Documents\root\SchoolProject\LaravelProjectSchool\Hello-World\resources\views\news-items" />
       <recent name="C:\Users\Eva van der kroft\Documents\root\SchoolProject\LaravelProjectSchool\Hello-World\app" />
+      <recent name="C:\Users\Eva van der kroft\Documents\root\SchoolProject\LaravelProjectSchool\Hello-World\app\Http\Controllers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -161,7 +174,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600079281596</updated>
       <workItem from="1600079282854" duration="3604000" />
-      <workItem from="1600614331994" duration="3087000" />
+      <workItem from="1600614331994" duration="3378000" />
+      <workItem from="1600681967144" duration="6329000" />
     </task>
     <servers />
   </component>
